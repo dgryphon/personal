@@ -1,0 +1,9 @@
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\WallyWorld\WallyWorld\bin\WallyWorld.dll
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\WallyWorld\WallyWorld\bin\WallyWorld.pdb
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\WallyWorld\WallyWorld\bin\WallyWorld.xml
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\WallyWorld\WallyWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\WallyWorld\WallyWorld\obj\Debug\WallyWorld.Resources.resources
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\WallyWorld\WallyWorld\obj\Debug\WallyWorld.vbproj.GenerateResource.Cache
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\WallyWorld\WallyWorld\obj\Debug\WallyWorld.dll
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\WallyWorld\WallyWorld\obj\Debug\WallyWorld.xml
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\WallyWorld\WallyWorld\obj\Debug\WallyWorld.pdb

@@ -1,0 +1,16 @@
+C:\Documents and Settings\dgrooms\Local Settings\Application Data\Temporary Projects\AddaForm\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\dgrooms\Local Settings\Application Data\Temporary Projects\AddaForm\obj\Release\AddaForm.Form1.resources
+C:\Documents and Settings\dgrooms\Local Settings\Application Data\Temporary Projects\AddaForm\obj\Release\AddaForm.Properties.Resources.resources
+C:\Documents and Settings\dgrooms\Local Settings\Application Data\Temporary Projects\AddaForm\obj\Release\AddaForm.csproj.GenerateResource.Cache
+C:\Documents and Settings\dgrooms\Local Settings\Application Data\Temporary Projects\AddaForm\bin\Release\AddaForm.exe
+C:\Documents and Settings\dgrooms\Local Settings\Application Data\Temporary Projects\AddaForm\bin\Release\AddaForm.pdb
+C:\Documents and Settings\dgrooms\Local Settings\Application Data\Temporary Projects\AddaForm\obj\Release\AddaForm.exe
+C:\Documents and Settings\dgrooms\Local Settings\Application Data\Temporary Projects\AddaForm\obj\Release\AddaForm.pdb
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\AddaForm\AddaForm\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\AddaForm\AddaForm\obj\Release\AddaForm.Form1.resources
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\AddaForm\AddaForm\obj\Release\AddaForm.Properties.Resources.resources
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\AddaForm\AddaForm\obj\Release\AddaForm.csproj.GenerateResource.Cache
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\AddaForm\AddaForm\obj\Release\AddaForm.exe
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\AddaForm\AddaForm\obj\Release\AddaForm.pdb
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\AddaForm\AddaForm\bin\Release\AddaForm.exe
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\AddaForm\AddaForm\bin\Release\AddaForm.pdb

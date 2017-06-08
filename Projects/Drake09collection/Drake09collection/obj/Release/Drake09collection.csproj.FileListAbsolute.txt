@@ -1,0 +1,6 @@
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\Drake09collection\Drake09collection\bin\Release\Drake09collection.dll
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\Drake09collection\Drake09collection\bin\Release\Drake09collection.pdb
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\Drake09collection\Drake09collection\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\Drake09collection\Drake09collection\obj\Release\Drake09collection.dll
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\Drake09collection\Drake09collection\obj\Release\Drake09collection.pdb
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\Drake09collection\Drake09collection\obj\Release\Drake09collection.g.resources

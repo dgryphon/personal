@@ -1,0 +1,4 @@
+<MSDeploy.iisApp>
+	<iisapp path="BlogEngine" />
+	<setAcl path="BlogEngine/App_Data" setAclAccess="ReadAndExecute,Write,Delete" />
+</MSDeploy.iisApp>

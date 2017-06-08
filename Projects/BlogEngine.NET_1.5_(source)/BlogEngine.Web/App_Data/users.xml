@@ -1,0 +1,20 @@
+<Users>
+  <User>
+    <UserName>Admin</UserName>
+    <Password>jGl25bVBBBW96Qi9Te4V37Fnqchz/Eu4qB9vKrRIqRg=</Password>
+    <Email>post@example.com</Email>
+    <LastLoginTime>2007-12-05 20:46:40</LastLoginTime>
+  </User>
+  <User>
+    <UserName>dgryphon</UserName>
+    <Password>45VbagMcax1shWGdLfQH9Oy/Zd2X0oCVAkkPnSZDYLs=</Password>
+    <Email>dgry@hotmail.com</Email>
+    <LastLoginTime>2009-11-07 20:54:12</LastLoginTime>
+  </User>
+  <User>
+    <UserName>Jshannon</UserName>
+    <Password>O5zvGGfefdRf/oFrkEzOR9CR0inaTX9+wjehFIYKhDA=</Password>
+    <Email>jason.shannon@drakesoftware.com</Email>
+    <LastLoginTime>2009-11-07 20:54:35</LastLoginTime>
+  </User>
+</Users>

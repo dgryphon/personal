@@ -1,0 +1,151 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="site.master.cs" Inherits="themes_MarketPlace1_0_site" %>
+<%@ Register Src="~/admin/menu.ascx" TagName="menu" TagPrefix="uc1" %>
+<%@ Import Namespace="BlogEngine.Core" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link type="text/css" href="MarketPlace.css" rel="stylesheet" />
+    <link rel="shortcut icon" href="~/pics/blogengine.ico" type="image/x-icon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=us-ascii" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <!-- wrap starts here -->
+        <div id="wrap">
+            <!--header -->
+	<%--<div id="header">			
+				
+		<div id="header-links">
+		<p>
+			<a href="~/default.aspx">Home</a> | 
+			<a href="index.html">Contact</a> | 
+			<a href="index.html">Site Map</a>			
+		</p>		
+		</div>		
+		
+	<!--header ends-->					
+	</div>--%>
+            <div id="header-photo">
+                <h1 id="logo-text">
+                <%--ToolTip='<%= BlogSettings.Instance.Name %>'--%>
+                    <asp:hyperlink ID="lnkTitle" runat="server" NavigateUrl="~/default.aspx"><%= BlogSettings.Instance.Name %></asp:hyperlink></h1>
+                <h2 id="slogan">
+                    <%= BlogSettings.Instance.Description %></h2>
+            </div>
+            <!-- navigation starts-->
+            <div id="nav">
+                <!-- navigation ends-->
+                <ul>
+			<li id='<%= GetLinkStyle(Link.Home) %>'><asp:hyperlink runat="server" ID="lnkHome" NavigateUrl="~/default.aspx">Home</asp:hyperlink></li>
+			<li id='<%= GetLinkStyle(Link.Archive) %>'><asp:hyperlink runat="server" ID="lnkArchive" NavigateUrl="~/archive.aspx">Archive</asp:hyperlink></li>
+			<li id='<%= GetLinkStyle(Link.Contact) %>'><asp:hyperlink runat="server" ID="lnkContact" NavigateUrl="~/contact.aspx">Contact</asp:hyperlink></li>			
+			<li id='<%= GetLinkStyle(Link.Search) %>'><asp:hyperlink runat="server" ID="lnkSearch" NavigateUrl="~/search.aspx">Search</asp:hyperlink></li>
+			<li><a href="<%=Utils.FeedUrl %>">RSS Feed</a></li>
+			<asp:LoginStatus ID="LoginStatus2" runat="Server" LoginText="Sign in" LogoutText="Sign out"
+                                        EnableViewState="false" />
+		    
+		</ul>
+            </div>
+            <!-- content-wrap starts -->
+            <div id="content-wrap" class="three-col">
+                <div id="sidebar">
+                    <ul class="sidemenu">
+                        <%--<li>
+                            <blog:SearchBox ID="SearchBox1" runat="server" />
+                            <br style="clear: both;" />
+                        </li>--%>
+                        <% if (Page.User.Identity.IsAuthenticated)
+          { %>
+                        <li>
+                            <h1>
+                                Admin</h1>
+                            <uc1:menu ID="Menu1" runat="server" />
+                        </li>
+                        <%} %>
+                        <li>
+                            <h1>
+                                <%=Resources.labels.pages %>
+                            </h1>
+                            <blog:PageList ID="pageList" runat="Server" />
+                        </li>
+                        <li>
+                            <h1>
+                                <%= Resources.labels.categories %>
+                            </h1>
+                            <blog:CategoryList ID="categoryList" ShowRssIcon="true" runat="Server" />
+                        </li>
+                        <li>
+                            <h1>
+                                Disclaimer</h1>
+                            <ul>
+                                <li>The opinions expressed herein are my own personal opinions and do not represent
+                                    my employer's view in anyway.<br />
+                                    <br />
+                                    &copy; Copyright
+                                    <%=DateTime.Now.Year %>
+                                    <br />
+                                    <br />
+                                    <asp:LoginStatus ID="LoginStatus1" runat="Server" LoginText="Sign in" LogoutText="Sign out"
+                                        EnableViewState="false" />
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <!-- sidebar ends -->
+                </div>
+                <div id="rightcolumn">
+                    <ul class="sidemenu">
+                        <li>
+                            <h1>
+                                Tags</h1>
+                            <blog:TagCloud ID="tagCloud" runat="server" />
+                        </li>
+                        <li>
+                            <h1>
+                                <%= Resources.labels.archive %>
+                            </h1>
+                            <blog:MonthList ID="monthList" runat="server" />
+                        </li>
+                        <li>
+                            <h1>
+                                <%= Resources.labels.blogroll %>
+                            </h1>
+                            <blog:Blogroll ID="blogRoll" runat="server" />
+                        </li>
+                        <!--
+								Recent Posts and Recent Comments are not in this sidebar.
+							 -->
+                        <li>
+                            <h1>
+                                Authors</h1>
+                            <blog:AuthorList ID="authorList" runat="Server" />
+                        </li>
+                    </ul>
+                </div>
+                <div id="main">
+                    <asp:ContentPlaceHolder ID="cphBody" runat="server" />
+                    <blog:SearchOnSearch ID="SearchOnSearch1" runat="server" MaxResults="3" Headline="You searched for"
+                        Text="Here are some results for the search term on this website" />
+                </div>
+                <!-- content-wrap ends-->
+            </div>
+            <!-- footer starts -->
+            <div id="footer-wrap">
+                <div id="footer">
+                    <p>
+                        Design by: <a href="http://www.styleshout.com/">styleshout</a>&nbsp; |&nbsp;adapted
+                        by <a href="http://www.adamzastawski.com" target="_blank">AdamZastawski.com</a><br />
+                        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/default.aspx">Home</asp:HyperLink>&nbsp;
+                        |&nbsp;&nbsp;<asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/archive.aspx">Archive</asp:HyperLink>&nbsp;&nbsp;
+                        |&nbsp;&nbsp;<asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/contact.aspx">Contact</asp:HyperLink>&nbsp;&nbsp;
+                        |&nbsp;&nbsp;<asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="~/Search.aspx">Search</asp:HyperLink>&nbsp;&nbsp;
+                        |&nbsp;<a href="<%=Utils.FeedUrl %>">Feed</a>
+                    </p>
+                </div>
+            </div>
+            <!-- footer ends-->
+            <!-- wrap ends here -->
+        </div>
+    </form>
+</body>
+</html>

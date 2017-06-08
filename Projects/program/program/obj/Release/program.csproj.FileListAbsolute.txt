@@ -1,0 +1,5 @@
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\program\program\bin\Release\program.exe
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\program\program\bin\Release\program.pdb
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\program\program\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\program\program\obj\Release\program.exe
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\program\program\obj\Release\program.pdb

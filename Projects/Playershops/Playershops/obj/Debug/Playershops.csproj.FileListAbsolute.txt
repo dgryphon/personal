@@ -1,0 +1,8 @@
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\Playershops\Playershops\bin\Debug\Playershops.exe
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\Playershops\Playershops\bin\Debug\Playershops.pdb
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\Playershops\Playershops\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\Playershops\Playershops\obj\Debug\Playershops.frmMain.resources
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\Playershops\Playershops\obj\Debug\Playershops.Properties.Resources.resources
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\Playershops\Playershops\obj\Debug\Playershops.csproj.GenerateResource.Cache
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\Playershops\Playershops\obj\Debug\Playershops.exe
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\Playershops\Playershops\obj\Debug\Playershops.pdb

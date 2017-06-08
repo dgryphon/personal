@@ -1,0 +1,5 @@
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\MyWallyWorld\MyWallyWorld\bin\MyWallyWorld.dll
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\MyWallyWorld\MyWallyWorld\bin\MyWallyWorld.pdb
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\MyWallyWorld\MyWallyWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\MyWallyWorld\MyWallyWorld\obj\Debug\MyWallyWorld.dll
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\MyWallyWorld\MyWallyWorld\obj\Debug\MyWallyWorld.pdb

@@ -1,0 +1,20 @@
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\DecryptMaster\DecryptMaster\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\DecryptMaster\DecryptMaster\obj\Release\DecryptMaster.csproj.ResolveComReference.cache
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\DecryptMaster\DecryptMaster\obj\Release\DecryptMaster.Form1.resources
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\DecryptMaster\DecryptMaster\obj\Release\DecryptMaster.Properties.Resources.resources
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\DecryptMaster\DecryptMaster\obj\Release\DecryptMaster.csproj.GenerateResource.Cache
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\DecryptMaster\DecryptMaster\bin\Release\DecryptMaster.exe.manifest
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\DecryptMaster\DecryptMaster\bin\Release\DecryptMaster.application
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\DecryptMaster\DecryptMaster\bin\Release\DecryptMaster.exe
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\DecryptMaster\DecryptMaster\bin\Release\DecryptMaster.pdb
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\DecryptMaster\DecryptMaster\bin\Release\Interop.DSOFile.dll
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\DecryptMaster\DecryptMaster\bin\Release\Dsofile.dll
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\DecryptMaster\DecryptMaster\obj\Release\Interop.DSOFile.dll
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\DecryptMaster\DecryptMaster\obj\Release\DecryptMaster.exe.manifest
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\DecryptMaster\DecryptMaster\obj\Release\DecryptMaster.application
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\DecryptMaster\DecryptMaster\obj\Release\DecryptMaster.exe
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\DecryptMaster\DecryptMaster\obj\Release\DecryptMaster.pdb
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\DecryptMaster\DecryptMaster\bin\Release\Encryption Manager.dll
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\DecryptMaster\DecryptMaster\bin\Release\XML Manager.dll
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\DecryptMaster\DecryptMaster\bin\Release\XML Manager.pdb
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\DecryptMaster\DecryptMaster\bin\Release\Encryption Manager.pdb

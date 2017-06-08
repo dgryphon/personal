@@ -1,0 +1,5 @@
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\BlogEngine.NET_1.5_(source)\BlogEngine.Core\bin\Debug\BlogEngine.Core.dll
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\BlogEngine.NET_1.5_(source)\BlogEngine.Core\bin\Debug\BlogEngine.Core.pdb
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\BlogEngine.NET_1.5_(source)\BlogEngine.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\BlogEngine.NET_1.5_(source)\BlogEngine.Core\obj\Debug\BlogEngine.Core.dll
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\BlogEngine.NET_1.5_(source)\BlogEngine.Core\obj\Debug\BlogEngine.Core.pdb

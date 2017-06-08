@@ -1,0 +1,9 @@
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\GSFrontEnd\GSFrontEnd\bin\Release\GSFrontEnd.exe
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\GSFrontEnd\GSFrontEnd\bin\Release\GSFrontEnd.pdb
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\GSFrontEnd\GSFrontEnd\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\GSFrontEnd\GSFrontEnd\obj\Release\GSFrontEnd.frmLaunch.resources
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\GSFrontEnd\GSFrontEnd\obj\Release\GSFrontEnd.frmGame.resources
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\GSFrontEnd\GSFrontEnd\obj\Release\GSFrontEnd.Properties.Resources.resources
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\GSFrontEnd\GSFrontEnd\obj\Release\GSFrontEnd.csproj.GenerateResource.Cache
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\GSFrontEnd\GSFrontEnd\obj\Release\GSFrontEnd.exe
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\GSFrontEnd\GSFrontEnd\obj\Release\GSFrontEnd.pdb

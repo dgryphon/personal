@@ -1,0 +1,16 @@
+C:\Documents and Settings\dgrooms\Local Settings\Application Data\Temporary Projects\CodeChanger\bin\Debug\CodeChanger.exe
+C:\Documents and Settings\dgrooms\Local Settings\Application Data\Temporary Projects\CodeChanger\bin\Debug\CodeChanger.pdb
+C:\Documents and Settings\dgrooms\Local Settings\Application Data\Temporary Projects\CodeChanger\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dgrooms\Local Settings\Application Data\Temporary Projects\CodeChanger\obj\Debug\CodeChanger.Form1.resources
+C:\Documents and Settings\dgrooms\Local Settings\Application Data\Temporary Projects\CodeChanger\obj\Debug\CodeChanger.Properties.Resources.resources
+C:\Documents and Settings\dgrooms\Local Settings\Application Data\Temporary Projects\CodeChanger\obj\Debug\CodeChanger.csproj.GenerateResource.Cache
+C:\Documents and Settings\dgrooms\Local Settings\Application Data\Temporary Projects\CodeChanger\obj\Debug\CodeChanger.exe
+C:\Documents and Settings\dgrooms\Local Settings\Application Data\Temporary Projects\CodeChanger\obj\Debug\CodeChanger.pdb
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\CodeChanger\CodeChanger\obj\Debug\CodeChanger.exe
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\CodeChanger\CodeChanger\obj\Debug\CodeChanger.pdb
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\CodeChanger\CodeChanger\bin\Debug\CodeChanger.exe
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\CodeChanger\CodeChanger\bin\Debug\CodeChanger.pdb
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\CodeChanger\CodeChanger\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\CodeChanger\CodeChanger\obj\Debug\CodeChanger.Form1.resources
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\CodeChanger\CodeChanger\obj\Debug\CodeChanger.Properties.Resources.resources
+C:\Documents and Settings\dgrooms\My Documents\Visual Studio 2008\Projects\CodeChanger\CodeChanger\obj\Debug\CodeChanger.csproj.GenerateResource.Cache
